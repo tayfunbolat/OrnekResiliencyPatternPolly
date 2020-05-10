@@ -1,0 +1,17 @@
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Console.ResiliencyPatterns.exe
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\obj\Debug\netcoreapp3.1\Console.ResiliencyPatterns.csprojAssemblyReference.cache
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\obj\Debug\netcoreapp3.1\Console.ResiliencyPatterns.AssemblyInfoInputs.cache
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\obj\Debug\netcoreapp3.1\Console.ResiliencyPatterns.AssemblyInfo.cs
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\obj\Debug\netcoreapp3.1\Console.ResiliencyPatterns.csproj.CopyComplete
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Console.ResiliencyPatterns.deps.json
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Console.ResiliencyPatterns.runtimeconfig.json
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Console.ResiliencyPatterns.runtimeconfig.dev.json
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Console.ResiliencyPatterns.dll
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Console.ResiliencyPatterns.pdb
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\obj\Debug\netcoreapp3.1\Console.ResiliencyPatterns.dll
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\obj\Debug\netcoreapp3.1\Console.ResiliencyPatterns.pdb
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\tayfun.bolat\source\repos\ResiliencyPatterns\Console.ResiliencyPatterns\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
